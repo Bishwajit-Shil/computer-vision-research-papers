@@ -186,3 +186,46 @@ These papers cover various aspects of computer vision, from semantic segmentatio
     [Read more](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304790).
 
 These papers explore the intersection of computer vision and medical imaging, covering deep learning applications, challenges, and advancements in the field.
+
+
+## Research Papers on Generative Adversarial Networks (GANs) in Computer Vision
+
+1. "A survey on GANs for computer vision: Recent research, analysis and taxonomy"
+   [Read more](https://arxiv.org/abs/2203.11242) .
+
+2. "Ten Years of Generative Adversarial Nets (GANs): A survey of the state-of-the-art"
+   [Read more](https://arxiv.org/abs/2308.16316) .
+
+3. "Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey" 
+   [Read more](https://arxiv.org/abs/2302.08641) .
+
+4. "Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy"  
+   [Read more](https://arxiv.org/abs/1906.01529) .
+
+5. "GANs in computer vision - Introduction to generative learning"**  
+   [Read more](https://theaisummer.com/generative-adversarial-networks/) .
+
+6. **"A Comprehensive Review on GANs for Image Generation" 
+   [Read more](https://arxiv.org/abs/1902.00188).
+
+7. "High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs"  
+   [Read more](https://arxiv.org/abs/1711.11585).
+
+8. "CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks" 
+   [Read more](https://arxiv.org/abs/1703.10593).
+
+9. "Pix2Pix: Image-to-Image Translation with Conditional Adversarial Networks"
+   [Read more](https://arxiv.org/abs/1611.07004).
+
+10. "StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks" 
+    [Read more](https://arxiv.org/abs/1812.04948).
+
+11. "Wasserstein GAN" 
+    [Read more](https://arxiv.org/abs/1701.07875).
+
+12. "BigGAN: Large Scale GAN Training for High Fidelity Natural Image Synthesis"
+    [Read more](https://arxiv.org/abs/1809.11096).
+
+13. "Self-Attention GANs (SAGAN) for Improved Image Generation"  
+    [Read more](https://arxiv.org/abs/1805.08318).
+
